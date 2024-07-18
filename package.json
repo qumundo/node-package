@@ -1,6 +1,6 @@
 {
   "name": "@qumundo/node-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Starter module for testing github and npm deployment.",
   "homepage": "https://github.com/qumundo/node-package",
   "author": {
